@@ -2,7 +2,7 @@
 Our prediction model for March Madness 2020
 
 
-[**Full Presentation Here](https://github.com/ngocdinh1410/March-Madness-2020/blob/master/GUCCIGANG%20Report.pptx)
+[**Full Presentation Here**](https://github.com/ngocdinh1410/March-Madness-2020/blob/master/GUCCIGANG%20Report.pptx)
 
 
 [**Full R file here**](https://github.com/ngocdinh1410/March-Madness-2020/blob/master/final.R)
